@@ -10,9 +10,9 @@ public class Gambling {
 		int StackIncrease = 150;
 		int StackDecrease = 50;
 		int win =0;
-		System.out.println("Welcome To Gambler Simulator");
-		System.out.println("Every Day Stack: " + EverydayStack);
-		System.out.println("Bet Price: " + BetStack);
+		System.out.println("Welcome To Gambling");
+		System.out.println("Every Day Stack is " + EverydayStack);
+		System.out.println("Betting price is " + BetStack);
 
 
 
